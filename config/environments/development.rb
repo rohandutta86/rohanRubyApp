@@ -73,7 +73,5 @@ Rails.application.configure do
 
   # Raise error when a before_action's only/except options reference missing actions
   config.action_controller.raise_on_missing_callback_actions = true
-
-  config.hosts << "3000-codeanywhere-templates-r-ngwvdo6ve8.us2.codeanyapp.com"
-  config.hosts << "3000-codeanywhere-templates-r-ngwvdo6ve8.us2.codeanyapp.com"
+  config.hosts << "4136953e95804e72a4933638fdab4082.vfs.cloud9.us-east-1.amazonaws.com"
 end
